@@ -1,37 +1,37 @@
 {
-name: "Biden",
-description: "vice president of USA",
-image: "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4182237691,4280501661&fm=26&gp=0.jpg",
-external_url: "https://raw.githubusercontent.com/zhengfengyi/testcard/card3",
-attributes: [
+"name": "Biden",
+"description": "vice president of USA",
+"image": "https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=4182237691,4280501661&fm=26&gp=0.jpg",
+"external_url": "https://raw.githubusercontent.com/zhengfengyi/testcard/card3",
+"attributes": [
 {
-trait_type: "Set",
-value: "Genesis"
+"trait_type": "Set",
+"value": "Genesis"
 },
 {
-trait_type: "Rarity",
-value: "Relic"
+"trait_type": "Rarity",
+"value": "Relic"
 },
 {
-trait_type: "Artist",
-value: "RektMe Rev"
+"trait_type": "Artist",
+"value": "RektMe Rev"
 },
 {
-trait_type: "Type",
-value: "Relic"
+"trait_type": "Type",
+"value": "Relic"
 },
 {
-trait_type: "Tag",
-value: "Pineapple"
+"trait_type": "Tag",
+"value": "Pineapple"
 },
 {
-display_type: "date",
-trait_type: "birthday",
-value: 1598450400
+"display_type": "date",
+"trait_type": "birthday",
+"value": 1598450400
 },
 {
-trait_type: "Max Supply",
-value: "10000"
+"trait_type": "Max Supply",
+"value": "10000"
 }
 ]
 }
