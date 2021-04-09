@@ -1,0 +1,37 @@
+{
+"name": "KENNY",
+"description": "kenny",
+"image": "https://i.pinimg.com/originals/f3/c9/e2/f3c9e231bffd7a013a4ae91d2b54b29f.gif",
+"external_url": "https://raw.githubusercontent.com/zhengfengyi/testcard/master/unlockable.json",
+"attributes": [
+{
+"trait_type": "Set",
+"value": "Genesis"
+},
+{
+"trait_type": "Rarity",
+"value": "Relic"
+},
+{
+"trait_type": "Artist",
+"value": "RektMe Rev"
+},
+{
+"trait_type": "Type",
+"value": "Relic"
+},
+{
+"trait_type": "Tag",
+"value": "Pineapple"
+},
+{
+"display_type": "date",
+"trait_type": "birthday",
+"value": 1598450400
+},
+{
+"trait_type": "Max Supply",
+"value": "10000"
+}
+]
+}
